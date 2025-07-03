@@ -12,6 +12,11 @@ This project builds a machine learning model to detect Parkinson’s Disease bas
 - Accuracy: **93%**
 - High recall (98%) for Parkinson’s cases
 
+## Tools and Libraries used
+- Python
+- Jupyter Notebook
+- Used various tools like Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
+
 ## 📁 Files
 - `parkinsons_model.ipynb`: Main notebook with data processing, training, and evaluation
 - `requirements.txt`: Python libraries used
